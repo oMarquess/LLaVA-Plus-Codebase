@@ -26,7 +26,7 @@ import torchvision.transforms.functional as F
 
 
 # vars
-controller_address = "http://localhost:21001"
+controller_address = "http://localhost:8000"
 model_name = 'grounding_dino'
 
 def get_openai_api():
